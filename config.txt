@@ -1,0 +1,6 @@
+map size in pixels(400 - 650): 650
+   grid size in boxes(4 - 15): 12
+ x border from graph(0 - 465): 460
+  y border from graph(0 - 60): 0
+  difficulty(1 easy - 3 diff): 3
+        algorithm used(r / f): F 

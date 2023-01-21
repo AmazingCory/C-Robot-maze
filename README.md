@@ -8,7 +8,7 @@ Download all files, and run command 1 then 2:
 (2)	./main | java -jar drawApp-2.0.jar
 
 
-# Overall program:
+# General:
 
 The program is divided into main, robot, maze, Floyd’s algorithm, and tools, along with the graphics files, everything gets put into the main file, which shows a clear procedure of how the program runs. The only file that should get edited is the config file.
 

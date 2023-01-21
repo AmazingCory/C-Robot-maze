@@ -1,6 +1,6 @@
 # C-Robot-maze
 
-Project finished in October 2022.
+Project ended in October 2022.
 
 # Run program:
 

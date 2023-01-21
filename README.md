@@ -7,7 +7,7 @@ Download all files, and run command 1 then 2:
 (1)	gcc -o main main.c robot.c maze.c tools.c graphics.c floyd_alg.c
 (2)	./main | java -jar drawApp-2.0.jar
 
-
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Overall program:
 
